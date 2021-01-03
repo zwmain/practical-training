@@ -1,0 +1,18 @@
+.Login{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-color: #f0f2f5;
+}
+
+.Login .login-form{
+    width: 30em;
+    background-color: #ffffff;
+    padding: 2em;
+    border-radius: 8px;
+    margin: 15% auto;
+}
+
+.Login .login-form .login-form-button{
+    width: 100%;
+}
